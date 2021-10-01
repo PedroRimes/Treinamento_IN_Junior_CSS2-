@@ -93,6 +93,7 @@
     
 }
 .linha{
+    margin: 30px;
     display: flex;
 }
 .card1{
@@ -121,11 +122,13 @@
     background-color: #fafafa;
 }
 .img31{
-    padding: 20px 40px 50px 350px;
+    margin: 20px 40px 50px 350px;
+    box-shadow: #2c5680 -2em -2em;
     z-index: 1;
 }
 .img32{
-    padding: 10px 350px 10px 40px;
+    box-shadow: #2c5680 2em -2em;
+    margin: 10px 350px 10px 40px;
 }
 .titulo{
     padding-top: 120px;
